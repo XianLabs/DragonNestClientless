@@ -1,0 +1,16 @@
+D:\Users\Alex\Desktop\Projects\DNClientNew\DragonLib\obj\Release\DragonLib.csprojResolveAssemblyReference.cache
+D:\Users\Alex\Desktop\Projects\DNClientNew\DragonLib\bin\Release\DragonLib.dll
+D:\Users\Alex\Desktop\Projects\DNClientNew\DragonLib\bin\Release\DragonLib.pdb
+D:\Users\Alex\Desktop\Projects\DNClientNew\DragonLib\obj\Release\DragonLib.dll
+D:\Users\Alex\Desktop\Projects\DNClientNew\DragonLib\obj\Release\DragonLib.pdb
+C:\Users\Alex\Desktop\VIP\DNCLB\DNClientNew\DragonLib\bin\Release\DragonLib.dll
+C:\Users\Alex\Desktop\VIP\DNCLB\DNClientNew\DragonLib\bin\Release\DragonLib.pdb
+C:\Users\Alex\Desktop\VIP\DNCLB\DNClientNew\DragonLib\obj\Release\DragonLib.dll
+C:\Users\Alex\Desktop\VIP\DNCLB\DNClientNew\DragonLib\obj\Release\DragonLib.pdb
+C:\Users\Alex\Desktop\VIP\DNCLB\DNClientNew\DragonLib\obj\Release\DragonLib.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\VIP\DNCLB\DNClientNew\DragonLib\bin\Release\MySql.Data.dll
+C:\Users\Alex\Desktop\DNClientNew_p\DragonLib\bin\Release\DragonLib.dll
+C:\Users\Alex\Desktop\DNClientNew_p\DragonLib\bin\Release\DragonLib.pdb
+C:\Users\Alex\Desktop\DNClientNew_p\DragonLib\obj\Release\DragonLib.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\DNClientNew_p\DragonLib\obj\Release\DragonLib.dll
+C:\Users\Alex\Desktop\DNClientNew_p\DragonLib\obj\Release\DragonLib.pdb
